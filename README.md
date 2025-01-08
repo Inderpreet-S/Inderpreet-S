@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Inderpreet Singh
-- 👀 I’m interested in Blockchain, Cloud infra and mobile apps
-- 🌱 I’m currently learning Flutter and Solana
-- 💞️ I’m looking to collaborate on backend
+- 👀 I’m interested in Blockchain, Cloud infra and AI Enabled Apps
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on backend and LLMs
 - 📫 How to reach me inderpreet.dadiala@gmail.com
 
 <!---
